@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/jiayu/GitHub/CPTS-223-Assignments/MA2/BST.h
+iostream
+-
+
+/Users/jiayu/GitHub/CPTS-223-Assignments/MA2/main.cpp
+BST.h
+/Users/jiayu/GitHub/CPTS-223-Assignments/MA2/BST.h
+

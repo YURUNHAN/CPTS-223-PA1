@@ -1,0 +1,3 @@
+/Users/jiayu/GitHub/CPTS-223-Assignments/MA2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/jiayu/GitHub/CPTS-223-Assignments/MA2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/jiayu/GitHub/CPTS-223-Assignments/MA2/cmake-build-debug/CMakeFiles/CPTS_223_MA2.dir
